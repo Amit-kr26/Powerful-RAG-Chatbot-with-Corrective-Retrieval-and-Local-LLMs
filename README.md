@@ -19,6 +19,6 @@ This project features a Corrective Retrieval Augmented Generation (CRAG) framewo
 
 ## Screenshots
 
-![](images/images/Screenshot 2024-09-08 021300.png)
+![](images/Screenshot 2024-09-08 021300.png)
 
-![](images/images/Screenshot 2024-09-08 010053.png)
+![](images/Screenshot 2024-09-08 010053.png)
