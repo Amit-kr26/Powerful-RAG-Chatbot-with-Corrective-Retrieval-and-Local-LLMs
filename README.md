@@ -17,3 +17,8 @@ This project features a Corrective Retrieval Augmented Generation (CRAG) framewo
 - `main.py`: Main entry point for the application.
 - `lang.py`: Contains the core functionality for setting up and running the LangChain agent.
 
+## Screenshots
+
+![](images/images/Screenshot 2024-09-08 021300.png)
+
+![](images/images/Screenshot 2024-09-08 010053.png)
